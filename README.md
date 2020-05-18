@@ -21,7 +21,7 @@ Look for **emergency warning signs\*** for COVID-19. If someone is showing any o
 * New confusion
 * Inability to wake or stay awake
 * Bluish lips or face
-*This list is not all possible symptoms. Please call your medical provider for any other symptoms that are severe or concerning to you.
+\*This list is not all possible symptoms. Please call your medical provider for any other symptoms that are severe or concerning to you.
 
 **Call 911 or call ahead to your local emergency facility**: Notify the operator that you are seeking care for someone who has or may have COVID-19.
 
