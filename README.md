@@ -13,6 +13,7 @@ Symptoms may appear 2-14 days after exposure to the virus. People with these sym
 * Muscle pain
 * Sore throat
 * New loss of taste or smell
+
 This list is not all possible symptoms. Other less common symptoms have been reported, including gastrointesinal symptoms like nausea, vomiting, or diarrhea.
 ### When to Seek Emergency Medical Attention
 Look for **emergency warning signs\*** for COVID-19. If someone is showing any of thse signs, **seek emergency medical care immediately**
@@ -21,6 +22,7 @@ Look for **emergency warning signs\*** for COVID-19. If someone is showing any o
 * New confusion
 * Inability to wake or stay awake
 * Bluish lips or face
+
 \*This list is not all possible symptoms. Please call your medical provider for any other symptoms that are severe or concerning to you.
 
 **Call 911 or call ahead to your local emergency facility**: Notify the operator that you are seeking care for someone who has or may have COVID-19.
