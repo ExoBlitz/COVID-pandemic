@@ -1,4 +1,49 @@
 # Coronavirus Disease 2019 (COVID-19)
+## Table of Contents
+* [Symptoms of Coronavirus](#symptoms-of-coronavirus)
+  * [What you need to know](#what-you-need-to-know)
+  * [Watch for symptoms](#watch-for-symptoms)
+  * [When to Seek Emergency Medical Attention](#when-to-seek-emergency-medical-attention)
+  * [Caring for yourself or others](#caring-for-yourself-or-others)
+  * [More Information about Symptoms](#more-information-about-symptoms)
+* [Testing](#testing)
+  * [Testing for COVID-19](#testing-for-covid-19)
+    * [Who should be tested](#who-should-be-tested)
+    * [Results](#results)
+      * [Results for healthcare professionals](#results-for-healthcare-professionals)
+    * [More information on testing](#more-information-on-testing)
+  * [Test for Current Infection](#test-for-current-infection)
+    * [How to decide if you should get a viral test](#how-to-decide-if-you-should-get-a-viral-test)
+    * [How to get a viral test](#how-to-get-a-viral-test)
+    * [What to do after a viral test](#what-to-do-after-a-viral-test)
+      * [Viral test for healthcare professionals](#viral-test-for-healthcare-professionals)
+    * [More information about Testing for Current Infection](#more-information-about-testing-for-current-infection)
+  * [Testing for Past Infection](#testing-for-past-infection)
+    * [How to get an antibody test](#how-to-get-an-antibody)
+    * [What do your results mean?](#what-do-your-results-mean)
+      * [Antibody test for healthcare professionals](#antibody-test-for-healthcare-professionals)
+    * [CDC's work in antibody testing](#cdcs-work-in-antibody-testing)
+* [How COVID-19 spreads](#how-it-spreads)
+  * [Person-to-person spread](#person-to-person-spread)
+  * [The virus spreads easily between people](#the-virus-spreads-easily-between-people)
+  * [The virus may spread in other ways](#the-virus-may-spread-in-other-ways)
+  * [Spread between animals and people](#spread-between-animals-and-people)
+* [How to protect yourself and others](#protect-yourself-and-others)
+  * [Know how it spreads](#know-how-it-spreads)
+  * [Everyone Should](#everyone-should)
+    * [Wash your hands often](#wash-your-hands-often)
+    * [Avoid close contact](#avoid-close-contact)
+    * [Cover your mouth and nose with a cloth face cover when around others](#cover-your-mouth-and-nose-with-a-cloth-face-cover-when-around-others)
+    * [Cover coughs and sneezes](#cover-coughs-and-sneezes)
+    * [Clean and disinfect](#clean-and-disinfect)
+    * [Monitor your health](#monitor-your-health)
+  * [Handwashing Resources](#handwashing-resources)
+  * [More information about how to protect yourself and others](#more-information-about-how-to-protect-yourself-and-others)
+* [Social Distancing](#social-distancing)
+  * [What is social distancing?](#what-is-social-distancing)
+    * [If you have been exposed or are sick](#if-you-have-been-exposed-or-are-sick)
+  * [Why practice social distancing](#why-practice-social-distancing)
+  * [Tips for social distancing](#tips-for-social-distancing)
 ## Symptoms of Coronavirus
 ### What you need to know
 * Anyone can have mild to severe symptoms
@@ -31,7 +76,7 @@ Look for **emergency warning signs\*** for COVID-19. If someone is showing any o
 * [How to protect yourself](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 * [How to care for someone who is sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html)
 * [What to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html)
-### More information
+### More information about Symptoms
 * [Older Adults](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html)
 * [People at Higher Risk for Severe Illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk-old.html)
 * [Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
@@ -58,13 +103,13 @@ To learn if you have a current infection, viral tests are used. But not everyone
 
 If you test positive or negative for COVID-19, no matter the type of test, you still should take preventive measures to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).
 
-**For healthcare professionals**
+#### Results for healthcare professionals
 For information on evaluating and testing, see [recommendations for reporting, testing, and specimen collection](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html).
-**For public health professionals**
+#### For public health professionals
 For information on antibody surveillance, see [objectives and types of surveys](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/serology-surveillance/index.html).
-**For laboratorians**
+#### For laboratorians
 For information on CDC viral and antibody testing, see information on [CDC lab tests](https://www.cdc.gov/coronavirus/2019-nCoV/lab/index.html).
-### More information
+### More information on testing
 [HHS Community Based Viral Testing Sites for COVID-19](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html)
 
 # Test for Current Infection
@@ -84,9 +129,9 @@ The U.S. Food and Drug Administration (FDA) has authorized two viral tests that 
 To get your test result, please check with the group that performed your test, such as your healthcare provider or your health department. Check the CDC website to [locate your health department information](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html). How long it will take to get your test results back depends on the test used.
 * **If you test positive for COVID-19,** know what protective steps to take [If You Are Sick or Caring for Someone](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html).
 * **If you test negative for COVID-19,** you probably were not infected at the time your sample was collected. However, that does not mean you will not get sick. It is possible that you were very early in your infection when your sample was collected and that you could test positive later. Or you could be exposed later and then develop illness. In other words, a negative test result does not mean you won’t get sick later. This means you could still spread the virus.
-**For healthcare professionals**
+#### Viral test for healthcare professionals
 For information on evaluating and testing, see [recommendations for reporting, testing, and specimen collection](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html)
-## More information
+## More information about Testing for Current Infection
 * [HHS Community Based Viral Testing Sites for COVID-19](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html)
 * [CDC: Frequently Asked Questions on Symptoms & Testing](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Symptoms-&-Testing)
 * [U.S. Food and Drug Administration FAQs on Viral Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-diagnostic-testing-sars-cov-2)
@@ -121,7 +166,7 @@ Antibody tests for COVID-19 are available through healthcare providers and labor
 
 Regardless of whether you test positive or negative, the results do not confirm whether or not you are able to spread the virus that causes COVID-19. Until we know more, continue to take steps to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).
 
-**For healthcare professionals**
+#### Antibody test for healthcare professionals
 For information on evaluating and testing for active infection, see [recommendations for reporting, testing, and specimen collection](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html).
 
 For CDC interim guidance on antibody testing in clinical and public health settings, see [Interim Guidelines for COVID-19 Antibody Testing](https://www.cdc.gov/coronavirus/2019-ncov/lab/resources/antibody-tests-guidelines.html).
@@ -214,7 +259,7 @@ Learn more about what you can do to [protect yourself and others](https://www.cd
 ## Handwashing Resources
 [Handwashing tips](https://www.cdc.gov/handwashing/)
 [Hand Hygiene in Healthcare Settings](https://www.cdc.gov/handhygiene/index.html)
-## More information
+## More information about how to protect yourself and others
 * [Symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
 * [What to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 * [If someone in your house gets sick](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/checklist-household-ready.html)
