@@ -75,7 +75,7 @@ Look for **emergency warning signs\*** for COVID-19. If someone is showing any o
 ### Caring for yourself or others
 * [How to protect yourself](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
 * [How to care for someone who is sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html)
-* [What to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html)
+* [What to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
 ### More information about Symptoms
 * [Older Adults](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html)
 * [People at Higher Risk for Severe Illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk-old.html)
