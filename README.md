@@ -93,7 +93,7 @@ An antibody test may not be able to show if you have a current infection, becaus
 ### Who should be tested
 To learn if you have a current infection, viral tests are used. But not everyone needs this test.
 * Most people will have mild illness and can recover at home without medical care and may not need to be tested.
-* CDC has [guidance](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html) bfor who should be tested, but decisions about testing are made by [state](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html) and [local](https://www.naccho.org/membership/lhd-directory) health departments or healthcare providers.
+* CDC has [guidance](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html) for who should be tested, but decisions about testing are made by [state](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html) and [local](https://www.naccho.org/membership/lhd-directory) health departments or healthcare providers.
 * If you have symptoms of COVID-19 and want to get tested, call your healthcare provider first.
 * You can also visit your state or local health department’s website to look for the latest local information on testing.
 * Although **supplies of tests are increasing, it may still be difficult to find a place to get tested.**
